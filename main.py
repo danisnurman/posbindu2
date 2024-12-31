@@ -276,7 +276,7 @@ streamlit.write("")
 ### End of GET VARIABLE INPUT FROM USER
 
 ## POST Data
-dataFromUser = [[generalHealth, bloodPressure, bmiCategory, cholCat, ageCat, physAct]]
+dataFromUser = [[cholCat, bloodPressure, bmiCategory, stroke, heartDiseaseorAttack, ageCat, physAct]]
 # streamlit.write(dataFromUser)
 
 ## Predict New Data
